@@ -3,7 +3,6 @@ from PyPDF2 import PdfReader
 import docx
 import pandas as pd
 import fitz  # PyMuPDF for handling images
-from dotenv import load_dotenv
 import io
 from PIL import Image
 
