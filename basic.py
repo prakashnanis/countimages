@@ -7,7 +7,6 @@ from dotenv import load_dotenv
 import io
 from PIL import Image
 
-load_dotenv()
 
 def count_characters_in_pdf(pdf_docs):
     total_characters = 0
